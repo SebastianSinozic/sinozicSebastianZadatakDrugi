@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\bin\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.exe
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\bin\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.deps.json
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\bin\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.runtimeconfig.json
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\bin\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\bin\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.dll
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\bin\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.pdb
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\obj\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\obj\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\obj\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\obj\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.AssemblyInfo.cs
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\obj\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.dll
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\obj\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.pdb
+C:\Users\sebas\source\repos\sinozicSebastianZadatakDrugi\sinozicSebastianZadatakDrugi\obj\Debug\netcoreapp3.1\sinozicSebastianZadatakDrugi.genruntimeconfig.cache
